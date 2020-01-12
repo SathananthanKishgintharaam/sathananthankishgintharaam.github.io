@@ -1,2 +1,2 @@
-User-agent: dummy.html
-Disallow: *
+User-agent: *
+Disallow: dummy.html
